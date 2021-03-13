@@ -70,14 +70,47 @@ ItemDisplay[imra]: %NAME%{%TAN%Cube w/ Jewel, Thul Rune or Greater, & White Map}
 ItemDisplay[upma]: %NAME%{%TAN%Cube w/ Perfect Skull, Thul Rune or Greater, & Magic Map}%DOT-80% // Upgrade Magic Map to Rare Map (Angelic Orb)
 ItemDisplay[imma]: %NAME%{%TAN%Cube w/ Jewel, Any Rune, & White Map}%DOT-80% // Imbue Magic Map (Arcane Orb)
 ItemDisplay[scou]: %NAME%{%TAN%Cube w/ Hel Rune & Magic or Rare Map}%DOT-80% // Purge Map (Removes Mods and Reverts back to a White Map) (Orb of Destruction)
-ItemDisplay[t11]: %NAME% [T1]%MAP-87% // Map
-ItemDisplay[t12]: %NAME% [T2]%MAP-87% // Map
-ItemDisplay[t13]: %NAME% [T3]%MAP-87% // Map
+
+// Maps - Updated to Season 2
+ItemDisplay[t11]: %NAME% [T1]%MAP-87% // Ruins of Viz-Jun Map
+ItemDisplay[t12]: %NAME% [T1]%MAP-87% // Horazon's Memory Map
+ItemDisplay[t13]: %NAME% [T1]%MAP-87% // Bastion's Keep Map
 ItemDisplay[t14]: %NAME% [T4]%MAP-87% // Map
 ItemDisplay[t15]: %NAME% [T5]%MAP-87% // Map
-ItemDisplay[t16]: %NAME% [T6]%MAP-87% // Ruins of Viz-jun
 ItemDisplay[t17]: %NAME% [T7]%MAP-87% // River of Blood
 ItemDisplay[t18]: %NAME% [T8]%MAP-87% // Lava Map
+
+ItemDisplay[t21]: %NAME% [T2]%MAP-87% // Phlegethon Map
+ItemDisplay[t22]: %NAME% [T2]%MAP-87% // Torajan Jungle Map
+ItemDisplay[t23]: %NAME% [T2]%MAP-87% // Arreat Battlefield Map
+ItemDisplay[t24]: %NAME% [T2]%MAP-87% // Blood Moon Map
+ItemDisplay[t31]: %NAME% [T3]%MAP-87% // River of Blood Map
+ItemDisplay[t32]: %NAME% [T3]%MAP-87% // Throne of Insanity Map
+ItemDisplay[t33]: %NAME% [T3]%MAP-87% // Sewers of Harrogath Map
+ItemDisplay[t34]: %NAME% [T3]%MAP-87% // Ancestral Trial Map
+ItemDisplay[t35]: %NAME% [T3]%MAP-87% // Tomb of Zoltun Kulle Map
+
+ItemDisplay[t41]: %NAME% [Dungeon]%MAP-87% // Cathedral of Light
+
+
+//End Game items [Map Currency]
+ItemDisplay[imma]: %BLUE%%NAME%%DOT-EF% // Arcane Orb
+ItemDisplay[imra]: %YELLOW%%NAME%%DOT-ED% // Zakarum Orb
+ItemDisplay[upma]: %ORANGE%%NAME%%DOT-E9% // Angelic Orb
+
+ItemDisplay[scou]: %NAME%%DOT-20% // Orb Of Destruction
+ItemDisplay[rera]: %YELLOW%%NAME%%DOT-0C% // Horadrim Orb
+ItemDisplay[upmp]: %ORANGE%%NAME%%DOT-E9% // Cartographer's Orb
+
+ItemDisplay[scrb]: %PURPLE%%NAME%%DOT-9B% // Horadrim Scarab
+
+//End Game items [General Currency]
+ItemDisplay[wss]: %RED%%NAME%%DOT-0A% // Worldstone Shard
+ItemDisplay[lbox]: %GOLD%%NAME%%DOT-ED% // Larzuk's Puzzlebox
+ItemDisplay[dcho]: %RED%%NAME%%DOT-E1% // Black Soulstone
+ItemDisplay[dcso]: %RED%%NAME%%DOT-E1% // Prime Evil Soul
+ItemDisplay[dcbl]: %RED%%NAME%%DOT-E1% // Pure Demonic Essence
+ItemDisplay[dcma]: %BLACK%%NAME%%DOT-00% // Vision of terror
 
 // GEMS
 // REFERENCE PAGE: https://projectdiablo2.miraheze.org/wiki/Item_Filtering#Gems 
