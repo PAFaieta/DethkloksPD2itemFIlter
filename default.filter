@@ -88,9 +88,9 @@ ItemDisplay[t31]: %NAME% [T3]%MAP-87% // River of Blood Map
 ItemDisplay[t32]: %NAME% [T3]%MAP-87% // Throne of Insanity Map
 ItemDisplay[t33]: %NAME% [T3]%MAP-87% // Sewers of Harrogath Map
 ItemDisplay[t34]: %NAME% [T3]%MAP-87% // Ancestral Trial Map
-ItemDisplay[t35]: %NAME% [T3]%MAP-87% // Tomb of Zoltun Kulle Map
+ItemDisplay[t36]: %NAME% [T3]%MAP-87% // Tomb of Zoltun Kulle Map
 
-ItemDisplay[t41]: %NAME% [Dungeon]%MAP-87% // Cathedral of Light
+ItemDisplay[t35]: %NAME% [Dungeon]%MAP-87% // Cathedral of Light
 
 
 //End Game items [Map Currency]
