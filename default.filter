@@ -64,7 +64,13 @@ ItemDisplay[mbr]: %ORANGE%%NAME%%MAP-68%{%TAN%Cube any 3 organs in Act 5 to open
 
 // PD2 Items
 ItemDisplay[wss]: %PURPLE%+%RED%%NAME%%MAP-62% // Worldstone Shard
-ItemDisplay[lbox]: %PURPLE%+%RED%%NAME%%MAP-62% // Larzuk's Box
+ItemDisplay[lbox]: %GOLD%%NAME%%DOT-ED% // Larzuk's Puzzlebox
+ItemDisplay[dcho]: %RED%%NAME%%DOT-E1% // Black Soulstone
+ItemDisplay[dcso]: %RED%%NAME%%DOT-E1% // Prime Evil Soul
+ItemDisplay[dcbl]: %RED%%NAME%%DOT-E1% // Pure Demonic Essence
+ItemDisplay[dcma]: %BLACK%%NAME%%DOT-00% // Vision of terror
+
+
 ItemDisplay[rera]: %NAME%{%TAN%Cube w/ Perfect Gem, Thul Rune or Greater, & Rare Map}%DOT-80% // Reroll Rare Map (Horadrim Orb)
 ItemDisplay[imra]: %NAME%{%TAN%Cube w/ Jewel, Thul Rune or Greater, & White Map}%DOT-80% // Imbue Rare Map (Zakarum Orb)
 ItemDisplay[upma]: %NAME%{%TAN%Cube w/ Perfect Skull, Thul Rune or Greater, & Magic Map}%DOT-80% // Upgrade Magic Map to Rare Map (Angelic Orb)
@@ -92,25 +98,6 @@ ItemDisplay[t36]: %NAME% [T3]%MAP-87% // Tomb of Zoltun Kulle Map
 
 ItemDisplay[t35]: %NAME% [T3]%MAP-87% // Cathedral of Light
 
-
-//End Game items [Map Currency]
-ItemDisplay[imma]: %BLUE%%NAME%%DOT-EF% // Arcane Orb
-ItemDisplay[imra]: %YELLOW%%NAME%%DOT-ED% // Zakarum Orb
-ItemDisplay[upma]: %ORANGE%%NAME%%DOT-E9% // Angelic Orb
-
-ItemDisplay[scou]: %NAME%%DOT-20% // Orb Of Destruction
-ItemDisplay[rera]: %YELLOW%%NAME%%DOT-0C% // Horadrim Orb
-ItemDisplay[upmp]: %ORANGE%%NAME%%DOT-E9% // Cartographer's Orb
-
-ItemDisplay[scrb]: %PURPLE%%NAME%%DOT-9B% // Horadrim Scarab
-
-//End Game items [General Currency]
-ItemDisplay[wss]: %RED%%NAME%%DOT-0A% // Worldstone Shard
-ItemDisplay[lbox]: %GOLD%%NAME%%DOT-ED% // Larzuk's Puzzlebox
-ItemDisplay[dcho]: %RED%%NAME%%DOT-E1% // Black Soulstone
-ItemDisplay[dcso]: %RED%%NAME%%DOT-E1% // Prime Evil Soul
-ItemDisplay[dcbl]: %RED%%NAME%%DOT-E1% // Pure Demonic Essence
-ItemDisplay[dcma]: %BLACK%%NAME%%DOT-00% // Vision of terror
 
 // GEMS
 // REFERENCE PAGE: https://projectdiablo2.miraheze.org/wiki/Item_Filtering#Gems 
