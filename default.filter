@@ -63,7 +63,7 @@ ItemDisplay[dhn]: %ORANGE%%NAME%%MAP-68%{%TAN%Cube any 3 organs in Act 5 to open
 ItemDisplay[mbr]: %ORANGE%%NAME%%MAP-68%{%TAN%Cube any 3 organs in Act 5 to open Uber Trist%NL%} // Mephisto's Brain
 
 // PD2 Items
-ItemDisplay[wss]: %PURPLE%+%RED%%NAME%%MAP-62% // Worldstone Shard
+ItemDisplay[wss]: %RED%%NAME%%MAP-62% // Worldstone Shard
 ItemDisplay[lbox]: %GOLD%%NAME%%DOT-ED% // Larzuk's Puzzlebox
 ItemDisplay[dcho]: %RED%%NAME%%DOT-E1% // Black Soulstone
 ItemDisplay[dcso]: %RED%%NAME%%DOT-E1% // Prime Evil Soul
