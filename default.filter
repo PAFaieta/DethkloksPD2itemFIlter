@@ -3,7 +3,7 @@
 // |     DETHKLOK1637's GENERAL ITEM FILTER          				            |
 // |     Made By:  @Dethklok#8947 // Dethklok1637                               |
 // |     Twitch: https://twitch.tv/dethklok1637                                 |
-// |     Last updated: 16/3/2021                                             |
+// |     Last updated: 16/3/2021                                               |
 // |                                                                            |
 // +----------------------------------------------------------------------------+
 
@@ -63,7 +63,9 @@ ItemDisplay[dhn]: %ORANGE%%NAME%%MAP-68%{%TAN%Cube any 3 organs in Act 5 to open
 ItemDisplay[mbr]: %ORANGE%%NAME%%MAP-68%{%TAN%Cube any 3 organs in Act 5 to open Uber Trist%NL%} // Mephisto's Brain
 
 // PD2 Items
-ItemDisplay[wss]: %RED%%NAME%%MAP-62% // Worldstone Shard
+// Reference: https://projectdiablo2.miraheze.org/wiki/Item_Filtering#PD2_Items
+
+ItemDisplay[wss]: %PURPLE%+ %RED%%NAME%%DOT-62% // Worldstone Shard
 ItemDisplay[lbox]: %GOLD%%NAME%%DOT-ED% // Larzuk's Puzzlebox
 ItemDisplay[dcho]: %RED%%NAME%%DOT-E1% // Black Soulstone
 ItemDisplay[dcso]: %RED%%NAME%%DOT-E1% // Prime Evil Soul
