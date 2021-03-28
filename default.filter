@@ -219,13 +219,6 @@ ItemDisplay[RUNE=33]: %NAME%{%TAN%POGGERS%NL%}// Zod Rune
 // Gold
 ItemDisplay[GOLD<2500]: // Hide 2500 gold and less
 
-//Global Price Filters -- Magic & Rare
-ItemDisplay[MAG OR RARE PRICE>0 AND PRICE<5000]:%NAME%+%GREEN%T1$
-ItemDisplay[MAG OR RARE PRICE>5000 AND PRICE<10000]:%NAME%+%GREEN%T2$
-ItemDisplay[MAG OR RARE PRICE>10000 AND PRICE<20000]:%NAME%+%GREEN%T3$
-ItemDisplay[MAG OR RARE PRICE>20000 AND PRICE<30000]:%NAME%+%GREEN%T4$
-ItemDisplay[MAG OR RARE PRICE>30000]:%NAME%+%GREEN%T5$
-
 // Potions
 ItemDisplay[hp1 CLVL<25]: %RED%+%WHITE%[H1] // Minor Healing Potion
 ItemDisplay[hp1 CLVL>24]: // Hides Minor Healing Potions after level 24
