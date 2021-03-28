@@ -120,11 +120,11 @@ ItemDisplay[gpvs]: %PURPLE%**+%WHITE%PAmethyst%MAP-9B%
 ItemDisplay[gcy]: %YELLOW%+%WHITE%C-Topaz%MAP-EC%
 ItemDisplay[gfy]: %YELLOW%+%WHITE%Fl-Topaz%MAP-EC%
 ItemDisplay[gsy]: %YELLOW%+%WHITE%Topaz%MAP-EC%
-ItemDisplay[gzy]: %YELLOW%+%WHITE%F-Topaz%MAP-EC%
+ItemDisplay[gly]: %YELLOW%+%WHITE%F-Topaz%MAP-EC%
 ItemDisplay[gpy]: %YELLOW%+%WHITE%PTopaz%MAP-EC%
 
 ItemDisplay[glys]: %YELLOW%*+%WHITE%F-Topaz%MAP-EC%
-ItemDisplay[gpys]: %YELLOW%**+%WHITE%F-Topaz%MAP-EC%
+ItemDisplay[gpys]: %YELLOW%**+%WHITE%PTopaz%MAP-EC%
 
 // Sapphire
 ItemDisplay[gcb]: %BLUE%+%WHITE%C-Sapphire%MAP-97%
